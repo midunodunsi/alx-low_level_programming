@@ -6,7 +6,7 @@
  * is_prime_number - Returns if a number is prime
  * check_prime - Checks if number is prime
  * @n: the number to be checked
- *
+ * @i: the iteration number
  * Return: integer value
  */
 
