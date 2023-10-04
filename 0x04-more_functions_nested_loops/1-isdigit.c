@@ -1,4 +1,4 @@
-#iclude "main.h"
+#include "main.h"
 
 /**
  * _isdigit - check if numbers are 0 - 9
@@ -11,6 +11,6 @@ int _isdigit(int x)
 {
 	if (x >= '0' && x <= '9')
 		return (1);
-	else 
+	else
 		return (0);
 }
